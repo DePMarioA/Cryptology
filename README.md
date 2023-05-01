@@ -1,2 +1,2 @@
 # Cryptology
-Assignments
+Cryptography methods in JAVA
